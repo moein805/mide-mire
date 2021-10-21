@@ -1,5 +1,5 @@
-# node-snapdrop
-Just the original [Snapdrop](https://github.com/RobinLinus/Snapdrop), with complete Node.js server.
+# node
+Just the original [](https://github.com/), with complete Node.js server.
 
 ## How to run
 Download the repository in a folder, cd it, install all dependencies with `npm i` and use this command: `node index.js`.
