@@ -1,84 +1,86 @@
 
-# Project Name
+# نام پروژه
 
-![Project Logo](path/to/logo.png)
+![لوگوی پروژه](path/to/logo.png)
 
-## Table of Contents
+## فهرست مطالب
 
-- [About](#about)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
+- [درباره](#درباره)
+- [ویژگی‌ها](#ویژگی‌ها)
+- [نصب](#نصب)
+- [استفاده](#استفاده)
+- [تکنولوژی‌ها](#تکنولوژی‌ها)
+- [مشارکت](#مشارکت)
+- [مجوز](#مجوز)
 
-## About
+## درباره
 
-The **FileShare** project is an online file transfer system that utilizes WebRTC technology. With this system, users can seamlessly transfer their files between different devices. The project allows users to directly transmit files through their web browsers, eliminating the need for intermediate storage services.
+پروژه **فایل‌باگذاری** یک سامانه آنلاین برای انتقال فایل با استفاده از فناوری WebRTC است. با این سامانه، کاربران می‌توانند فایل‌های خود را بین دستگاه‌های مختلف به راحتی منتقل کنند. این پروژه به کاربران امکان می‌دهد فایل‌هایشان را مستقیماً از طریق مرورگر وب انتقال دهند و نیازی به استفاده از سرویس‌های ذخیره‌سازی میانی نداشته باشند.
 
-![FileShare Preview](path/to/preview.png)
+![پیش‌نمایش فایل‌باگذاری](path/to/preview.png)
 
-## Features
+## ویژگی‌ها
 
-- Secure file transfer using WebRTC
-- Real-time file sharing between devices
-- High-speed file transfer for large files
-- Progress indicator for file transfers
-- Encryption of transferred files for enhanced security
-- File transfer history and logs
+- انتقال امن فایل با استفاده از فناوری WebRTC
+- اشتراک فایل بین دستگاه‌های مختلف به صورت لحظه‌ای
+- انتقال سریع فایل برای فایل‌های بزرگ
+- نمایش وضعیت پیشرفت انتقال فایل
+- رمزگذاری فایل‌های انتقالی برای افزایش امنیت
+- نمایش تاریخچه انتقال فایل‌ها
 
-## Installation
+## نصب
 
-To get started with **FileShare**, follow these steps:
+برای شروع استفاده از **فایل‌باگذاری**، مراحل زیر را دنبال کنید:
 
-1. Clone the project repository:
+1. کلون کردن مخزن پروژه:
    ```bash
    git clone https://github.com/your-username/your-repo.git
    ```
 
-2. Navigate to the project directory:
+2
+
+. وارد شدن به دایرکتوری پروژه:
    ```bash
    cd your-repo
    ```
 
-3. Install project dependencies using your preferred package manager (e.g., npm, yarn, etc.):
+3. نصب وابستگی‌های پروژه با استفاده از مدیریت بسته‌های مورد نظر (مثلاً npm، yarn و غیره):
    ```bash
    npm install
    ```
 
-## Usage
+## استفاده
 
-1. Start the application:
+1. اجرای برنامه:
    ```bash
    npm start
    ```
 
-2. Access the project on your local server at http://localhost:3000.
+2. دسترسی به پروژه در سرور محلی شما از طریق آدرس http://localhost:3000 ممکن است.
 
-## Technologies
+## تکنولوژی‌ها
 
-The technologies used in this project are:
+تکنولوژی‌های استفاده شده در این پروژه عبارتند از:
 
 - HTML
 - CSS
 - JavaScript
 - WebRTC
 
-## Contributing
+## مشارکت
 
-We welcome contributions to improve **FileShare**. To contribute, follow these steps:
+ما به هر نوع مشارکت برای بهبود **فایل‌باگذاری** خوش‌آمدید. برای مشارکت، مراحل زیر را دنبال کنید:
 
-1. Fork the repository.
-2. Create a new branch.
-3. Make your enhancements or bug fixes.
-4. Commit and push your changes.
-5. Submit a pull request.
+1. فورک کردن مخزن پروژه.
+2. ایجاد یک شاخه جدید.
+3. اعمال بهبودها یا رفع اشکالات.
+4. ثبت و ارسال تغییرات.
+5. ارسال درخواست Pull Request.
 
-## License
+## مجوز
 
-This project is licensed under the [MIT License](LICENSE). Feel free to explore and modify the code according to your needs.
+این پروژه تحت [مجوز MIT](LICENSE) منتشر شده است. احساس راحتی کنید که به کد دسترسی داشته باشید و آن را بر اساس نیازهای خود تغییر دهید.
 
 ---
 
-Thank you for your interest in **FileShare**! If you have any questions or feedback, please don't hesitate to contact us. Happy file sharing!
+از علاقه‌مندی شما به **فایل‌باگذاری** سپاسگزاریم! در صورت داشتن هرگونه سوال یا بازخورد، لطفاً به ما اطلاع دهید. امیدواریم تجربهٔ شما در انتقال فایل‌ها لذتبخش باشد!
